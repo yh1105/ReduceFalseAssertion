@@ -19,7 +19,7 @@ The postconditions after filtering by input/output examples and the filtering so
 The assertins after filtering by postconditions are located in the ``output_results_withfiltering`` and ``output_results_withoutfiltering`` folder.
 
 ### Code generation:
-We feed the assertions filtered by ReCon to CodeT, and here we will reuse the approach of CodeT.
+We feed the assertions filtered by ReCon to CodeT, and here we will reuse the approach of [CodeT] (https://github.com/microsoft/CodeT).
 
 ### Bug finding:
 All problems with bugs can be find by executing the Python file in ``bugfindings`` folder.
